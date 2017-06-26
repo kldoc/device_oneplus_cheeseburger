@@ -153,11 +153,6 @@ PRODUCT_PACKAGES += \
     libqcomvoiceprocessing \
     tinymix
 
-# Buttons & Gestures
-PRODUCT_BUTTON_GESTURES_PACKAGES := \
-    oppo-keyhandler \
-    ConfigPanel
-
 PRODUCT_PACKAGES += $(PRODUCT_BUTTON_GESTURES_PACKAGES)
 
 # Camera
