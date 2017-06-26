@@ -202,8 +202,8 @@ ENABLE_SCHEDBOOST := true
 #BOARD_HAL_STATIC_LIBRARIES := libhealthd.msm
 
 # NFC
-TARGET_USES_NQ_NFC := true
-NQ3XX_PRESENT := true
+#TARGET_USES_NQ_NFC := true
+#NQ3XX_PRESENT := true
 
 # WLAN
 WLAN_CHIPSET := qca_cld3
