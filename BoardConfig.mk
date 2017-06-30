@@ -186,6 +186,7 @@ WITH_DEXPREOPT := false
 
 # RIL
 TARGET_RIL_VARIANT := caf
+PROTOBUF_SUPPORTED := true
 
 # Enable peripheral manager
 TARGET_PER_MGR_ENABLED := true
